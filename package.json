@@ -2,10 +2,14 @@
   "name": "konduto-typescript-sdk",
   "version": "1.0.0",
   "description": "Konduto Anti-Fraud API SDK for TypeScript",
+  "author": "dev@silapay.pro",
+  "license": "MIT",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "files": [
-    "dist"
+    "dist",
+    "LICENSE",
+    "README.md"
   ],
   "scripts": {
     "build": "tsc",
