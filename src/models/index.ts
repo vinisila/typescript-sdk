@@ -18,3 +18,4 @@ export { KondutoOrder } from './KondutoOrder';
 
 export * from './enums';
 export * from './payments';
+export * from './onboarding';
